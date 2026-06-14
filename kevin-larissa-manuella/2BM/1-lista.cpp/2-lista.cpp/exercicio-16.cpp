@@ -1,7 +1,7 @@
 /*
  * Instituição: etecvav
- * Data: 27/05/2026
- * Autor: Larissa Mascoti
+ * Data: 10/06/2026
+ * Autor: Manuella Salvador
  * Descricao: Ler 15 números em um vetor.
  * Exibir o índice:
  * Do menor valor
