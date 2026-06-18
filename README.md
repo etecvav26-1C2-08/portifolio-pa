@@ -15,9 +15,9 @@ Este portfólio representa nosso aprendizado, dedicação e crescimento na área
 
 | Nome | GitHub |
 |------|--------|
-| Kevin  |
-| Larissa |
-| Manuella |
+| Kevin  | https://github.com/kevinwillian07 |
+| Larissa | https://github.com/larimascoti-ops |
+| Manuella | https://github.com/guukfrjjn |
 
 ---
 ## 💻 Plataforma sendo utilizada:
