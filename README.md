@@ -27,7 +27,3 @@ Este portfólio representa nosso aprendizado, dedicação e crescimento na área
 
 ---
 
-# 📋 Cronograma - 2º Bimestre
-
-| Menção | Tipo | Atividade | Data Entrega | Link | Obs |
-|---|---|---|---|---|---|
